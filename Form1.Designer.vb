@@ -54,6 +54,7 @@ Partial Class Form1
         ' 
         ' PictureBox1
         ' 
+        PictureBox1.Anchor = AnchorStyles.None
         PictureBox1.BackColor = Color.FromArgb(CByte(255), CByte(255), CByte(128))
         PictureBox1.Image = My.Resources.Resources.Foto1
         PictureBox1.Location = New Point(101, 62)

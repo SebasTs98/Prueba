@@ -15,3 +15,4 @@ C:\Users\Sebastian Torres\Desktop\Proyectos\App2_v1\App2_v1\obj\Debug\net8.0-win
 C:\Users\Sebastian Torres\Desktop\Proyectos\App2_v1\App2_v1\obj\Debug\net8.0-windows\App2_v1.genruntimeconfig.cache
 C:\Users\Sebastian Torres\Desktop\Proyectos\App2_v1\App2_v1\obj\Debug\net8.0-windows\ref\App2_v1.dll
 C:\Users\Sebastian Torres\Desktop\Proyectos\App2_v1\App2_v1\obj\Debug\net8.0-windows\App2_v1.Resources.resources
+C:\Users\Sebastian Torres\Desktop\Proyectos\App2_v1\App2_v1\obj\Debug\net8.0-windows\App2_v1.sourcelink.json
